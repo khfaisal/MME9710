@@ -1,0 +1,7 @@
+$ touch readme1.md
+
+$ git add .
+
+$ git commit -m'Added readme'
+
+$ git push
