@@ -1,1 +1,1 @@
-My success is only by Allah SWT
+My success is only by Allah SWT alone
