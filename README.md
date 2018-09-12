@@ -1,1 +1,1 @@
-In the name of Allah SWT, the most gracious, the most merciful, the most powerful, the controller of the world
+In the name of Allah SWT, the most gracious, the most merciful, the most powerful
